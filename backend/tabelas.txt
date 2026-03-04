@@ -1,0 +1,19 @@
+TABELAS:
+
+#OK	Empresa
+#OK	Cliente
+#OK	Endereco
+#OK	Categoria
+#OK	Genero
+#OK	Autor
+#OK	Produtos
+#OK	Estoque
+#OK	Venda
+#OK	ItensVenda
+#OK	Banco
+#OK	FormaPgto
+#OK	Avaliacao
+#OK	Promocao
+#OK	Cupom
+#OK	Parcelamento
+
