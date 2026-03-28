@@ -6,6 +6,8 @@ TABELAS:
 #OK	Categoria
 #OK	Genero
 #OK	Autor
+#OK Editora
+#OK Coletanea
 #OK	Produtos
 #OK	Estoque
 #OK	Venda
