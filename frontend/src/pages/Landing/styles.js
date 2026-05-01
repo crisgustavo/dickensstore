@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-import headerBackground from '../../assets/headerBackground.png';
+//import headerBackground from '../../assets/headerBackground.png';
 import headerBackground1 from '../../assets/headerBackground1.svg';
 
 export const Header = styled.div`
