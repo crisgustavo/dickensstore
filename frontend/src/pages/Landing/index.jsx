@@ -61,7 +61,7 @@ export function Landing() {
           />
         </FormControl>
       </Header>
-      <div style={{ minHeight: '2000px' }}></div>
+      <div style={{ minHeight: '1200px' }}></div>
     </main>
   );
 }
