@@ -1,6 +1,7 @@
 import styled from 'styled-components';
 
 import headerBackground from '../../assets/headerBackground.png';
+import headerBackground1 from '../../assets/headerBackground1.svg';
 
 export const Header = styled.div`
   display: flex;
@@ -9,7 +10,7 @@ export const Header = styled.div`
   position: fixed;
   width: 100%;
   height: ${(props) => (props.$isCollapsed ? '150px' : '45px')};
-  background-image: url(${headerBackground});
+  background-image: url(${headerBackground1});
   background-size: cover;
   background-position: center;
   padding: 10px 50px;
