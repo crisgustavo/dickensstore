@@ -12,7 +12,7 @@ module.exports = {
       },
       desricao: {
         allowNull: false,
-        tipe: Sequelize.STRING,
+        type: Sequelize.STRING,
       },
       descontoPercentual: Sequelize.FLOAT,
       descontoFixo: Sequelize.FLOAT,

@@ -35,7 +35,7 @@ module.exports = {
       dataPrazoFinal: Sequelize.DATE,
       dataEntregue: Sequelize.STRING,
       cliente: {
-        allowNull: fale,
+        allowNull: false,
         type: Sequelize.INTEGER,
       },
       endereco: {
